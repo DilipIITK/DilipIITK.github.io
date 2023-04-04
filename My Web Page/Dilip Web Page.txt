@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dilip Kumar - Academic Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+        }
+
+        main {
+            padding: 2rem;
+        }
+
+        section {
+            margin-bottom: 2rem;
+        }
+
+        h2 {
+            margin-bottom: 1rem;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 0.5rem;
+        }
+
+        a {
+            color: #333;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        img {
+            width: 150px;
+            height: auto;
+            border-radius: 50%;
+            display: block;
+            margin: 0 auto 1rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="dilip.jpg" alt="Dilip Kumar's Photo">
+        <h1>Dilip Kumar</h1>
+        <h2>Assistant Professor, PGDAV College</h2>
+        <h3>University of Delhi</h3>
+    </header>
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>I am an Assistant Professor at PGDAV College, University of Delhi, with a strong passion for teaching and research. My primary area of interest is wavelet analysis, and I am currently pursuing my Ph.D. in this field at the University of Delhi.</p>
+        </section>
+        <section>
+            <h2>Education</h2>
+            <ul>
+                <li>Ph.D. in Wavelet Analysis, University of Delhi (in progress)</li>
+                <li>M.Sc. in Mathematics, IIT Kanpur</li>
+                <li>B.Sc (Hons.) in Mathematics, Moti Lal Nehru College, University of Delhi</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Research Interests</h2>
+            <ul>
+                <li>Wavelet Analysis</li>
+                <li>Signal Processing</li>
+                <li>Applied Mathematics</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Publications</h2>
+            <ul>
+                <li><a href="https://www.hindawi.com/journals/jmath/2021/6689779/" target="_blank">A Wavelet-Based Numerical Technique for Solving Fractional Optimal Control Problems - Journal of Mathematics, 2021</a></li>
+            </ul>
+        </section>
+        <section>
+            <h2>Contact Information</h2>
+            <p>Email: dks@pgdav.du.ac.in</p>
+            <p>Phone: +91-9891639179</p>
+        </section>
+    </main>
+</body>
+</html>
